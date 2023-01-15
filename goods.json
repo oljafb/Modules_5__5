@@ -1,0 +1,11 @@
+[{"name":"Хлеб Бородинский","price":1,"quontity":10,"id":"10001"},
+{"name":"Хлеб белый","price":1.5,"quontity":20,"id":"10002"},
+{"name":"Хлеб чёрный","price":2,"quontity":15,"id":"10003"},
+{"name":"Масло","price":10,"quontity":17,"id":"10004"},
+{"name":"Рис","price":5,"quontity":20,"id":"10005"},
+{"name":"Кишмиш","price":7,"quontity":10,"id":"10006"},
+{"name":"Картофель","price":0.9,"quontity":9,"id":"10007"},
+{"name":"Творог","price":1.5,"quontity":15,"id":"10008"},
+{"name":"Кефир","price":1.7,"quontity":5,"id":"10009"},
+{"name":"Мясо","price":7,"quontity":8,"id":"10010"}
+]
